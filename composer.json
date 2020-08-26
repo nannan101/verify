@@ -12,6 +12,7 @@
         "firebase/php-jwt": "^5.2",
         "hashids/hashids": "^4.0"
     },
+	"license":"MIT",
 	"autoload": {
         "psr-4": {
             "Verification\\": "src/"
